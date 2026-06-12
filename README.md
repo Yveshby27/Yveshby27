@@ -1,6 +1,6 @@
 ### Hi, I'm Yves.
 
-Full-Stack Software Engineer in Beirut.
+Full-Stack Software Engineer.
 
 I research B2B problems before I build, then ship small open-source v0.1 alphas to test whether the wedge holds.
 
